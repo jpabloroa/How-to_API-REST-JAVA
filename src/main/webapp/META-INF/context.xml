@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/how-to_API-REST-JAVA"/>
+
+<Resource name="jdbc/database" auth="Container"
+   type="javax.sql.DataSource" 
+   maxActive="15"
+   maxIdle="3" 
+   maxWait="1000" 
+   username="jpablo"
+   password="Nad95037"
+   driverClassName="com.mysql.jdbc.Driver"
+   url="jdbc:mysql://localhost:3306/cusezar"/>
+</Context>
