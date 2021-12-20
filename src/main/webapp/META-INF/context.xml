@@ -6,8 +6,9 @@
    maxActive="15"
    maxIdle="3" 
    maxWait="1000" 
-   username="jpablo"
-   password="Nad95037"
+   username="your_user"
+   password="your_password"
    driverClassName="com.mysql.jdbc.Driver"
-   url="jdbc:mysql://localhost:3306/cusezar"/>
+   url="jdbc:mysql://localhost:3306/company"/>
 </Context>
+
